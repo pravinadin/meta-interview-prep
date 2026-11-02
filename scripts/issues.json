@@ -1,0 +1,275 @@
+[
+ {
+  "title": "Baseline · Sun Nov 1 (first 2.5 h): book mocks, recruiter questions, six tests",
+  "milestone": "Week 1",
+  "labels": [
+   "week-1",
+   "review",
+   "mock"
+  ],
+  "date": "2026-11-01",
+  "body": "Six short tests, about 2.5 hours, rated honestly. Any \"Weak\" moves hours toward that area in weeks 1–2 (see Replan rules).\n\n## Setup\n- [ ] Book 4 external mocks: AI coding (Nov 14), design (Nov 14), coding (Nov 19), behavioral (Nov 19)\n- [ ] Send the recruiter questions from the Plan tab\n- [ ] Create the AI-usage log (date, task, time saved, where AI was wrong, how you verified)\n- [ ] Run the six tests below and set each rating\n\n## Six tests\nFill **Rating** with Strong / OK / Weak. Any \"Weak\" fires a rule in [replan-rules.md](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/replan-rules.md).\n\n| Area | Test | \"Strong\" means | Rating | Notes |\n| --- | --- | --- | --- | --- |\n| Coding speed | LC 1249 and 314 in C++, 25 min each, no AI | Both pass, clean code, complexity stated |  |  |\n| C++ fluency | From memory in 15 min: min-heap with comparator, grid BFS, string split | No lookups, compiles first or second try |  |  |\n| AI-enabled coding | Have an AI generate a buggy ~100-line C++ module with tests; fix it in 30 min | All tests green; you found bugs by reading, not by asking |  |  |\n| System design | Rate limiter in 30 min, Mermaid diagram | Requirements, API, diagram and one deep dive all fit |  |  |\n| In-domain design | Talk through a telemetry pipeline for 100K devices, 15 min | Clear structure, tradeoffs named, no rambling |  |  |\n| Behavioral | Tell the multipath-redesign story aloud, recorded | Under 3 min, clear \"I\", a number in the result |  |  |\n\n_From the Tracker tab of the Meta Interview Prep plan._"
+ },
+ {
+  "title": "Sun Nov 1 · 8 h",
+  "milestone": "Week 1",
+  "labels": [
+   "behavioral",
+   "coding",
+   "refresh",
+   "week-1"
+  ],
+  "date": "2026-11-01",
+  "body": "## Core\n- [ ] Baseline tests above, 2.5 h (replaces the STL drill; add a 1 h STL drill Mon–Wed only if C++ fluency rates Weak)\n- [ ] LC 1, 125, 680 (no AI)\n- [ ] LC 408, 560 (1249 is in the baseline)\n- [ ] Walk through the Meta CoderPad practice environment\n- [ ] List 12 candidate stories from your resume\n\n## Refresh track\n- [ ] BGP sheet (1 h)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Mon Nov 2 · 3 h",
+  "milestone": "Week 1",
+  "labels": [
+   "coding",
+   "refresh",
+   "systems",
+   "week-1"
+  ],
+  "date": "2026-11-02",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 3, 15, 88 (no AI)\n- [ ] LC 1004, 76\n- [ ] Start the error log (bottom of this tab); first AI-usage log entry at work\n\n## Refresh track\n- [ ] OSPF sheet (30 min)\n\n## Systems track\n- [ ] Multithreading and memory model sheet (30 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Tue Nov 3 · 3 h",
+  "milestone": "Week 1",
+  "labels": [
+   "coding",
+   "refresh",
+   "review",
+   "system-design",
+   "systems",
+   "week-1"
+  ],
+  "date": "2026-11-03",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 227, 71 (no AI), 1209, 468\n- [ ] Write the 45-min design framework one-pager\n- [ ] Replan checkpoint: apply recruiter answers using the Replan rules\n\n## Refresh track\n- [ ] IPv6 sheet (30 min)\n\n## Systems track\n- [ ] Processes, threads and scheduling (EEVDF) sheet (30 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Wed Nov 4 · 3 h",
+  "milestone": "Week 1",
+  "labels": [
+   "coding",
+   "refresh",
+   "system-design",
+   "week-1"
+  ],
+  "date": "2026-11-04",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 314, 199 (no AI), 543, 938, 236, 1650\n- [ ] Building blocks review, 1 h: load balancers, caches, CDN, queues, sharding\n\n## Refresh track\n- [ ] Kafka sheet (1 h)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Thu Nov 5 · 3 h",
+  "milestone": "Week 1",
+  "labels": [
+   "behavioral",
+   "coding",
+   "refresh",
+   "systems",
+   "week-1"
+  ],
+  "date": "2026-11-05",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 124, 426 (no AI), 297, 129, 958\n- [ ] STAR #1 Multipath redesign\n- [ ] STAR #2 KRT async FSM + I/O threading\n- [ ] STAR #3 SlipDetector / Memtrace / KERNBTR\n\n## Refresh track\n- [ ] L3VPN sheet (30 min)\n\n## Systems track\n- [ ] Lock-free queues sheet: SPSC, MPMC, ABA, reclamation (45 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Fri Nov 6 · 3 h",
+  "milestone": "Week 1",
+  "labels": [
+   "coding",
+   "refresh",
+   "system-design",
+   "week-1"
+  ],
+  "date": "2026-11-06",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 215 (quickselect), 973, 347 (no AI), 23, 56, 253\n- [ ] Storage and consistency review, 1 h: replication, quorum, SQL vs NoSQL\n\n## Refresh track\n- [ ] RabbitMQ sheet (30 min)\n- [ ] MQTT / Mosquitto / libmosquitto sheet (30 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Sat Nov 7 · 7 h",
+  "milestone": "Week 1",
+  "labels": [
+   "ai-drill",
+   "behavioral",
+   "coding",
+   "in-domain",
+   "refresh",
+   "review",
+   "system-design",
+   "systems",
+   "week-1"
+  ],
+  "date": "2026-11-07",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] AI drill #1: route table with LPM, 90 min\n- [ ] Redo 3 misses from the error log\n- [ ] Design #1 rate limiter, 60 min, Mermaid\n- [ ] Design #2 URL shortener, 60 min, Mermaid\n- [ ] In-domain #1: BGP telemetry pipeline\n- [ ] STAR #4 Google LLGR extended route retention\n- [ ] Saturday review: fill the scorecard, apply the Replan rules\n\n## Refresh track\n- [ ] Comparison: Kafka vs RabbitMQ vs MQTT (1 h)\n\n## Systems track\n- [ ] Code: SPSC ring buffer in C++ with a 2-thread test (1 h)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Sun Nov 8 · 7 h",
+  "milestone": "Week 2",
+  "labels": [
+   "ai-drill",
+   "coding",
+   "refresh",
+   "system-design",
+   "systems",
+   "week-2"
+  ],
+  "date": "2026-11-08",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 200, 133, 207 (no AI), 210\n- [ ] LC 721, 743, 787, 269\n- [ ] AI drill #2: KV store with TTL and transactions, 60 min\n- [ ] Design #3 news feed, 60 min\n\n## Refresh track\n- [ ] EVPN-VXLAN sheet, part 1: VXLAN, route types (1 h)\n\n## Systems track\n- [ ] Sharding sheet + sharded LRU design (45 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Mon Nov 9 · 3 h",
+  "milestone": "Week 2",
+  "labels": [
+   "behavioral",
+   "coding",
+   "refresh",
+   "systems",
+   "week-2"
+  ],
+  "date": "2026-11-09",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 162, 34 (no AI), 528, 523, 1570, 50\n- [ ] STAR #5 X.AI link-local peering\n- [ ] STAR #6 BGP global load balancing on Tomahawk5\n\n## Refresh track\n- [ ] EVPN-VXLAN part 2: multihoming, DF election, IRB (30 min)\n\n## Systems track\n- [ ] perf and eBPF sheet (30 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Tue Nov 10 · 3 h",
+  "milestone": "Week 2",
+  "labels": [
+   "coding",
+   "refresh",
+   "system-design",
+   "systems",
+   "week-2"
+  ],
+  "date": "2026-11-10",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 146 (no AI), 380, 981, 362, 1146\n- [ ] Design #4 Messenger / chat\n\n## Refresh track\n- [ ] SRv6 sheet (45 min)\n\n## Systems track\n- [ ] Linux memory and jemalloc sheet (45 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Wed Nov 11 · 3 h",
+  "milestone": "Week 2",
+  "labels": [
+   "ai-drill",
+   "refresh",
+   "system-design",
+   "systems",
+   "week-2"
+  ],
+  "date": "2026-11-11",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] AI drill #3: log analyzer with EWMA alerting, 60 min\n- [ ] Design #5 distributed KV store\n\n## Refresh track\n- [ ] sFlow and telemetry sheet (30 min)\n\n## Systems track\n- [ ] epoll vs io_uring sheet (30 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Thu Nov 12 · 3 h",
+  "milestone": "Week 2",
+  "labels": [
+   "coding",
+   "in-domain",
+   "refresh",
+   "week-2"
+  ],
+  "date": "2026-11-12",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] LC 1239, 78 (no AI), 46, 31, 670\n- [ ] In-domain #2: fabric for a 32K-GPU training cluster\n- [ ] Read Meta's RoCE blog post and skim the SIGCOMM 2024 paper\n\n## Refresh track\n- [ ] Congestion control sheet (1 h)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Fri Nov 13 · 3 h",
+  "milestone": "Week 2",
+  "labels": [
+   "behavioral",
+   "coding",
+   "refresh",
+   "systems",
+   "week-2"
+  ],
+  "date": "2026-11-13",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] Timed: 2 random Meta mediums in 40 min, twice, aloud\n- [ ] STAR #7 Oracle confederations\n- [ ] STAR #8 BGP YANG telemetry + EWMA\n- [ ] STAR #9 Qteq co-founder\n- [ ] STAR #10 conflict or failure\n- [ ] Draft 2 AI-workflow stories from your usage log\n\n## Refresh track\n- [ ] RIFT sheet (30 min)\n\n## Systems track\n- [ ] OOD in C/C++ sheet: ops-struct interfaces, composition, SOLID, state pattern (45 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Sat Nov 14 · 7 h",
+  "milestone": "Week 2",
+  "labels": [
+   "behavioral",
+   "in-domain",
+   "mock",
+   "refresh",
+   "review",
+   "week-2"
+  ],
+  "date": "2026-11-14",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] Mock #1: external AI-enabled coding, then debrief notes\n- [ ] Mock #2: external system design, then debrief notes\n- [ ] In-domain #3: edge egress traffic engineering (read Edge Fabric first)\n- [ ] Rehearse 5 stories aloud, timed, under 3 min each\n- [ ] Saturday review: fill the scorecard, apply the Replan rules\n\n## Refresh track\n- [ ] Comparison: BGP-in-DC vs RIFT vs Open/R vs OSPF (1 h)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Sun Nov 15 · 7 h (self-run full loop)",
+  "milestone": "Week 3",
+  "labels": [
+   "ai-drill",
+   "behavioral",
+   "in-domain",
+   "mock",
+   "system-design",
+   "systems",
+   "week-3"
+  ],
+  "date": "2026-11-15",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] AI drill #4: task scheduler with dependencies and workers, 60 min\n- [ ] Design #6 distributed job scheduler, 45 min\n- [ ] In-domain #4: RIB/FIB pipeline for 10M routes on multi-core, 45 min\n- [ ] Behavioral self-mock, 45 min, recorded\n- [ ] Debrief: write your top 5 fixes\n\n## Systems track\n- [ ] Code: route-table interface with trie and hash backends and a factory (1 h)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Mon Nov 16 · 3 h",
+  "milestone": "Week 3",
+  "labels": [
+   "coding",
+   "refresh",
+   "system-design",
+   "week-3"
+  ],
+  "date": "2026-11-16",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] Redo 10 error-log problems, timed\n- [ ] Design #7 top-K / trending\n\n## Refresh track\n- [ ] Explain one random topic aloud, 3 min (20 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Tue Nov 17 · 3 h",
+  "milestone": "Week 3",
+  "labels": [
+   "ai-drill",
+   "behavioral",
+   "refresh",
+   "system-design",
+   "week-3"
+  ],
+  "date": "2026-11-17",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] AI drill #5: spreadsheet with dependency evaluation, 60 min\n- [ ] Design #8 metrics and monitoring system\n- [ ] Add real numbers to the AI-workflow stories\n\n## Refresh track\n- [ ] Explain one random topic aloud, 3 min (20 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Wed Nov 18 · 3 h (last day for new material)",
+  "milestone": "Week 3",
+  "labels": [
+   "coding",
+   "in-domain",
+   "refresh",
+   "system-design",
+   "week-3"
+  ],
+  "date": "2026-11-18",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] 4 Meta mediums, mixed patterns, 25 min each (2 with no AI)\n- [ ] Design #9 notification system\n- [ ] In-domain #5: safe config rollout to 50K devices\n\n## Refresh track\n- [ ] Explain one random topic aloud, 3 min (20 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Thu Nov 19 · 3 h",
+  "milestone": "Week 3",
+  "labels": [
+   "behavioral",
+   "mock",
+   "week-3"
+  ],
+  "date": "2026-11-19",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] Mock #3: external coding, then debrief notes\n- [ ] Mock #4: external behavioral, then debrief notes\n- [ ] Re-run the Meta CoderPad practice environment\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ },
+ {
+  "title": "Fri Nov 20 · 3 h (last prep day)",
+  "milestone": "Week 3",
+  "labels": [
+   "behavioral",
+   "coding",
+   "refresh",
+   "review",
+   "system-design",
+   "week-3"
+  ],
+  "date": "2026-11-20",
+  "body": "Start with a 15-min redo of yesterday's misses (see [error log](https://github.com/pravinadin/meta-interview-prep/blob/main/tracker/error-log.md)). Problems marked (no AI) are solved without AI or autocomplete, aloud.\n\n## Core\n- [ ] Re-solve from memory: LC 1249, 314, 236, 528, 215, 146, 200, 560\n- [ ] Redraw one design in Mermaid in 20 min\n- [ ] Read the story sheet once\n- [ ] Final scorecard; interview-day checklist from the Plan tab\n- [ ] Early night\n\n## Refresh track\n- [ ] Re-read all sheets (30 min)\n\nDone when every box is ticked. Missed items: move them to tomorrow's issue or apply the 90-min minimum day (see replan rules)."
+ }
+]
