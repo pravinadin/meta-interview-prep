@@ -2,6 +2,8 @@
 
 All solutions in C++. One file per problem in `leetcode/`, named `<number>_<slug>.cpp`, with the complexity and any miss noted in a comment at the top. Every third problem (marked "no AI" in the daily issue) is solved with no AI and no autocomplete, talking aloud.
 
+Extra ladders for backtracking, DP, state-space BFS, A*, minimax and MCTS, plus an analysis of what the AI-enabled round actually asks: [practice-dp-backtracking-graphs.md](practice-dp-backtracking-graphs.md).
+
 ## Problem schedule
 
 | Date | Problems (no AI in bold) |
