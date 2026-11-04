@@ -260,6 +260,23 @@ Keep #1 (route table: your domain) and #4 (task scheduler: topological sort).
 
 **Order:** backtracking first (Nov 5–9), DP next (Nov 10–14), state BFS + A* + minimax (Nov 15–18). DP builds on backtracking, so the order matters.
 
+**Chosen (Nov 4): add a 45-min slot every weekday.** It is in each day's issue under "Ladder slot":
+
+| Day | Theme | Problems |
+| --- | --- | --- |
+| Thu Nov 5 | Backtracking | 90, 39 |
+| Fri Nov 6 | Backtracking | 22, 131 |
+| Mon Nov 9 | Backtracking | 79, 51 |
+| Tue Nov 10 | DP | Warm-up 70, 198, 62, 64 · 322 |
+| Wed Nov 11 | DP | 416, 139 |
+| Thu Nov 12 | DP | 91, 300 |
+| Fri Nov 13 | DP | 1143, 72 |
+| Mon Nov 16 | State BFS | 994, 1091 (BFS, then A*) |
+| Tue Nov 17 | State BFS | 752, 864 |
+| Wed Nov 18 | Minimax | 486, 464 · stretch: 127, 773 (A*) |
+
+Two Tier 1 problems (127, 773) are stretch items on Nov 18; if they don't fit, they move to after the loop.
+
 ## Coaching format for each problem
 
 1. Say the shape and the state before coding (the five DP questions, or the state tuple for BFS).

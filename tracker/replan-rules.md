@@ -34,3 +34,4 @@ Replan from evidence, not mood: each Saturday (and on Tue Nov 3, once recruiter 
 - v4 (Oct 31): added the systems programming track (about 7 h). Weekdays now run about 4.5 h. If two weekdays in a row slip, use these rules rather than pushing later into the night.
 - v5 (Oct 31): prep window set to Nov 1–20. The baseline moved into Sun Nov 1, and the Nov 21 taper merged into Fri Nov 20.
 - v6 (Nov 1): plan moved to this repo — one issue per day, weekly milestones.
+- v7 (Nov 4): added a 45-min ladder slot to every weekday Nov 5–18 (backtracking → DP → state BFS/A* → minimax; 2 problems a day, see [the ladder](../coding/practice-dp-backtracking-graphs.md)), because candidate reports show the AI-enabled round leans on backtracking and BFS over state. Weekdays now run about 5.25 h. AI drills unchanged.
