@@ -7,8 +7,8 @@ Book all four external mocks on Sun Nov 1. Write a debrief file here within an h
 | 1 | Sat Nov 14 | AI-enabled coding | [ ] | | |
 | 2 | Sat Nov 14 | System design | [ ] | | |
 | — | Sun Nov 15 | Self-run full loop (AI drill, design, in-domain, behavioral recorded) | n/a | | |
-| 3 | Thu Nov 19 | Coding | [ ] | | |
-| 4 | Thu Nov 19 | Behavioral | [ ] | | |
+| 4 | Mon Nov 16 | Behavioral (moved from Nov 19: leaves time to fix what it exposes) | [ ] | | |
+| 3 | Wed Nov 18 | Coding (moved from Nov 19) | [ ] | | |
 
 ## Debrief template
 

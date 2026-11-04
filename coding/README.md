@@ -21,7 +21,7 @@ Extra ladders for backtracking, DP, state-space BFS, A*, minimax and MCTS, plus 
 | Fri Nov 13 | Timed: 2 random Meta mediums in 40 min, twice |
 | Mon Nov 16 | Redo 10 error-log problems, timed |
 | Wed Nov 18 | 4 Meta mediums, mixed patterns, 25 min each (2 with no AI) |
-| Fri Nov 20 | Re-solve from memory: 1249, 314, 236, 528, 215, 146, 200, 560 |
+| Thu Nov 19 | Re-solve from memory: 1249, 314, 236, 528, 215, 146, 200, 560 |
 
 ## Solution header
 

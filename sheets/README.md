@@ -22,7 +22,7 @@ A topic is done when its one-page sheet exists here and you've explained it alou
 | Fri Nov 13 | RIFT | 30 min | [ ] |
 | Sat Nov 14 | Comparison: BGP-in-DC vs RIFT vs Open/R vs OSPF | 1 h | [ ] |
 | Mon–Wed Nov 16–18 | Explain one random topic aloud, 3 min, each day | 20 min/day | [ ] |
-| Fri Nov 20 | Re-read all sheets | 30 min | [ ] |
+| Thu Nov 19 | Re-read all sheets | 30 min | [ ] |
 
 ## Systems track (`systems/`)
 

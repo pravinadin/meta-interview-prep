@@ -1,4 +1,4 @@
-# Meta Interview Prep — Nov 1–20, 2026
+# Meta Interview Prep — Nov 1–19, 2026 · Loop Fri Nov 20
 
 Tracking for a 3-week, ~100-hour prep plan for Meta's SWE loop. Each day is a GitHub issue with a checklist; close it when every box is ticked. Weekly progress lives in the milestones and the [scorecard](tracker/scorecard.md).
 
@@ -27,7 +27,7 @@ Full plan with playbooks and reading lists: [Meta Interview Prep — 3-Week Plan
 | --- | --- | --- | --- |
 | Week 1 | Nov 1–7 | Foundations: baseline, core patterns, design framework, first stories | Scorecard targets for Nov 7 |
 | Week 2 | Nov 8–14 | Depth and reps: graphs, design reps, AI drills, mocks #1–2 | Scorecard targets for Nov 14 |
-| Week 3 | Nov 15–20 | Mocks, polish, taper: full self-loop, mocks #3–4, no new material after Nov 18 | Rested; loop Nov 21 or later |
+| Week 3 | Nov 15–19 | Mocks, polish, taper: full self-loop, mock #4 (Mon Nov 16) and #3 (Wed Nov 18), no new material after Nov 18, taper Thu Nov 19 | Rested for the loop on Fri Nov 20 |
 
 ## Labels
 

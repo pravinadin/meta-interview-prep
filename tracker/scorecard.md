@@ -2,7 +2,7 @@
 
 Fill **Actual** every Saturday and set **Status** (On track / Behind / Ahead). Below 80% of a target counts as Behind and fires a rule in [replan-rules.md](replan-rules.md).
 
-| Metric | Target Nov 7 | Target Nov 14 | Target Nov 20 | Actual Nov 7 | Actual Nov 14 | Actual Nov 20 | Status |
+| Metric | Target Nov 7 | Target Nov 14 | Target Nov 19 | Actual Nov 7 | Actual Nov 14 | Actual Nov 19 | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | New problems solved, cumulative | 32 | 60 | 64 | | | | |
 | Mediums solved in ≤ 25 min with no hints | 50% | 70% | 80% | | | | |
