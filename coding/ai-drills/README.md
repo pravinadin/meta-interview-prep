@@ -10,6 +10,10 @@ Each drill mimics the AI-enabled coding round: a small C++ codebase (3–5 files
 | 4 | Sun Nov 15 | Task scheduler | Cycle not detected | Topological order | Minimum total time with N parallel workers | [ ] |
 | 5 | Tue Nov 17 | Spreadsheet | Off-by-one cell refs | Formula evaluation with dependencies | Incremental recompute on change; cycle errors | [ ] |
 
+## 2-day plan from reported Meta questions
+
+[meta-ai-round-2-day-plan.md](meta-ai-round-2-day-plan.md): a 2-day, 8-hours-a-day plan built from Meta AI-round questions reported on PracHub. It covers the maze solver with keys and doors, unique characters, suffix queries, alien alphabet order, the expiring record store and the card deck, with 3 timed mocks, a 28-problem LeetCode list and 11 memory-hook templates.
+
 ## Using the AI in the room
 
 1. Read the codebase and tests first (5 min). Run the tests to see the baseline before prompting anything.
